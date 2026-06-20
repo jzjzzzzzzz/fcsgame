@@ -1,0 +1,12 @@
+Elf
+120
+10
+100
+Home
+
+Sword,1
+Bread Seed,3
+Watering Can,1
+Damage Potion,2
+Heal Potion,2
+Mystery Potion,1
