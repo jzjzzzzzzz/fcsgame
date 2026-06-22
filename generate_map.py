@@ -1,4 +1,4 @@
-# Written by: Tiger Lin, John Zhou, Julianne Chang, Angelica Feng
+# Written by project contributors
 
 import time
 import random
